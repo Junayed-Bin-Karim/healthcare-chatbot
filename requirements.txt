@@ -4,4 +4,4 @@ speechrecognition
 Pillow
 gtts
 requests
-langchain==0.0.196
+langchain
