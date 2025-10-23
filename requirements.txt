@@ -1,7 +1,7 @@
-streamlit
+streamlit==1.35.0
 nltk
 speechrecognition
-pillow
+Pillow
 gtts
 requests
-langchain
+langchain==0.0.196
